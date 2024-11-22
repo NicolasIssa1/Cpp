@@ -1,0 +1,2 @@
+What Is const in C++?
+In C++, const is a keyword used to indicate that a value or object should not be modified after it is initialized. It enforces immutability, ensuring that the data remains constant throughout its lifetime.
